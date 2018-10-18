@@ -2,7 +2,7 @@
 
 #### _single Webpage for Epicodus, 10.17.2018_
 
-#### By _**Kenny Wolfenberger and Kaveh Saleminejad**_
+#### By _**Kenny Wolfenberger and Cristian Lucero*_
 
 ## Description
 
@@ -33,4 +33,4 @@ _Contact Kenny Wolfenberger - kennywolfenberger@gmail.com or Kaveh Saleminejad -
 
 *This software is licensed under the MIT license.*
 
-Copyright (c) 2018 **_Kenny Wolfenberger and Kaveh Saleminejad_**
+Copyright (c) 2018 **_Kenny Wolfenberger and Cristian Lucero_**
